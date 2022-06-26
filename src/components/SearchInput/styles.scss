@@ -1,0 +1,21 @@
+.search-wrapper {
+  width: 340px;
+  height: 40px;
+  background-color: var(--dark-blue);
+  border-radius: 30px;
+  padding-left: 29px;
+  // margin: 28px 0 14px;
+  box-sizing: border-box;
+
+  .search-input {
+    width: 90%;
+    height: 40px;
+    box-sizing: border-box;
+    background-color: transparent;
+    border: none;
+    color: var(--white);
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 95.6%;
+  }
+}
